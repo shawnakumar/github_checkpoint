@@ -1,1 +1,1 @@
-github_checkpoint_clone
+GitHub Checkpoint Assignment
